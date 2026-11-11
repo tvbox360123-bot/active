@@ -1,0 +1,31 @@
+# =====================================================================
+#  DANH SACH DU PHONG - nhung san trong ROM
+#  Dich: /system/etc/tvbox_apks.txt
+#
+#  Chi duoc dung khi KHONG tai duoc apk.txt tren GitHub
+#  (vi du raw.githubusercontent.com bi chan).
+#  Binh thuong script luon doc ban moi tren GitHub, file nay khong dung toi.
+#
+#  CO TINH KHONG GHI SHA256.
+#  Ly do: day la ban dong bang trong ROM. Neu ban nang cap APK tren GitHub
+#  sau nay, sha256 o day se sai va script se TU CHOI cai file dung.
+#  Bo trong -> luon tai duoc ban moi nhat, doi lai khong kiem tra duoc
+#  toan ven tren duong du phong nay. Ban chinh (GitHub) van kiem sha256.
+#
+#  Chi can build lai ROM khi DOI TEN FILE hoac DOI DUONG DAN.
+#  Them/bot APK thi chi can sua apk.txt tren GitHub.
+# =====================================================================
+
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/AMAZING.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/AXEM_TIVI1.0.1.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/aYouTubeFinal.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/bluetooth.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/com.dinhlap.dlstore.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/com.linor.vn.getout.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/com.oxootv.spagreen.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/HDPlayStore.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/KARABOX3_64_9.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/MK.PLAYER.KARAOKEv2.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/SportzX_3.2v.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/VietPlayTV_2.5.apk
+https://github.com/tvbox360123-bot/active/releases/download/v1.0/YouTubePro_fix_loi_kg_xac_dinh.apk
