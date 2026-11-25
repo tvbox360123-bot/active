@@ -1,11 +1,11 @@
 {
-  "versionCode": 18,
-  "versionName": "1.6",
-  "url": "https://raw.githubusercontent.com/tvbox360123-bot/active/main/HOTROTUXA.apk",
+  "versionCode": 20,
+  "versionName": "2.0",
+  "url": "https://raw.githubusercontent.com/tvbox360123-bot/active/main/SOS-BOX.apk",
   "size": 1225656,
-  "sha256": "abd3f027df44d2efa6a7b27e94410685285e46d9f4b28641b547f56c43426b38",
+  "sha256": "a40cf6908149ee215e58702b6508034fcd1c067157fc7bbbd220992a823df289",
   "notes": "",
   "force": false,
-  "apk": "HOTROTUXA.apk",
-  "publishedAt": "2026-11-25 19:29:07"
+  "apk": "SOS-BOX.apk",
+  "publishedAt": "2026-11-25 19:34:30"
 }
