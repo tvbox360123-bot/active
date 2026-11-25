@@ -1,11 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "1.5",
-  "url": "https://raw.githubusercontent.com/tvbox360123-bot/active/main/SOS-BOX.apk",
+  "versionCode": 15,
+  "versionName": "1.6",
+  "url": "https://github.com/tvbox360123-bot/active/releases/download/v1.0/SOS-BOX.apk",
   "size": 1225656,
-  "sha256": "aa7afecdacd9dc5ee4c06e333c245c20ab4a7a24d214ea0b58364092d5946dec",
-  "notes": "- Tự động kiểm tra bản mới khi mở app\n- Có bản mới sẽ hiện yêu cầu cập nhật (không cần thao tác thủ công)",
+  "sha256": "968f2ff077decd9bde59e13ce72437fe767cae4ee6e04e5873eb4e3b7f135507",
+  "notes": "test cap nhat",
   "force": false,
   "apk": "SOS-BOX.apk",
-  "publishedAt": "2026-11-25 18:41:39"
+  "publishedAt": "2026-11-25 18:52:07"
 }
