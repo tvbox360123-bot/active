@@ -1,7 +1,7 @@
 {
   "versionCode": 17,
   "versionName": "1.6",
-  "url": "https://raw.githubusercontent.com/tvbox360123-bot/active/main/HOTROTUXA.apk",
+  "url": "https://raw.githubusercontent.com/tvbox360123-bot/active/main/SOS-BOX.apk",
   "size": 1225656,
   "sha256": "1767150ec8db6893d0aa38e4da5e9b4a6b4ab5d6f2e42c4fcdb9ff46d7fb4d50",
   "notes": "- Thêm IP WAN dự phòng: tên miền lỗi thì app tự kết nối bằng IP\n- Tự động kiểm tra bản mới khi mở app",
