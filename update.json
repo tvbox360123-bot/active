@@ -1,11 +1,11 @@
 {
-  "versionCode": 12,
+  "versionCode": 13,
   "versionName": "1.5",
-  "url": "http://hthao.dssddns.net:7001/app/download",
+  "url": "https://raw.githubusercontent.com/tvbox360123-bot/active/main/SOS-BOX.apk",
   "size": 1225656,
-  "sha256": "c7e6ab36d9702f31a656e00cdefaf75962da3013227e8aa2b2adddb56bec1eb7",
-  "notes": "- Thêm chức năng tự cập nhật phiên bản mới (nút CẬP NHẬT)\n- Hiển thị số phiên bản đang dùng ở màn hình chính\n- Tự kiểm tra bản mới khi mở app, và 6 giờ/lần khi box chạy liên tục",
+  "sha256": "aa7afecdacd9dc5ee4c06e333c245c20ab4a7a24d214ea0b58364092d5946dec",
+  "notes": "- Tự động kiểm tra bản mới khi mở app\n- Có bản mới sẽ hiện yêu cầu cập nhật (không cần thao tác thủ công)",
   "force": false,
   "apk": "SOS-BOX.apk",
-  "publishedAt": "2026-11-25 18:09:29"
+  "publishedAt": "2026-11-25 18:41:39"
 }
