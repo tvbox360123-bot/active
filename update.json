@@ -1,7 +1,11 @@
-
 {
-  "versionCode": 11,
-  "versionName": "1.1.8",
-  "changelog": "- Sửa lỗi giọng nói\n- Đẩy full kênh ra màn hình chính\n- Thân chào Mấy bạn!",
-  "downloadUrl": "https://raw.githubusercontent.com/hai-crypto2026/listmytv/refs/heads/main/app-debug.apk"
+  "versionCode": 12,
+  "versionName": "1.5",
+  "url": "http://hthao.dssddns.net:7001/app/download",
+  "size": 1225656,
+  "sha256": "c7e6ab36d9702f31a656e00cdefaf75962da3013227e8aa2b2adddb56bec1eb7",
+  "notes": "- Thêm chức năng tự cập nhật phiên bản mới (nút CẬP NHẬT)\n- Hiển thị số phiên bản đang dùng ở màn hình chính\n- Tự kiểm tra bản mới khi mở app, và 6 giờ/lần khi box chạy liên tục",
+  "force": false,
+  "apk": "SOS-BOX.apk",
+  "publishedAt": "2026-11-25 18:09:29"
 }
